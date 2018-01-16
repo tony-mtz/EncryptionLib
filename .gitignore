@@ -1,4 +1,5 @@
 /EncryptionLib/nbproject/private/
 /Encrypt/target/
-/Encrypt
 /EncryptionLib
+/Encrypt/privkey.pem
+/Encrypt/pubkey.pem
